@@ -1,0 +1,42 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "trino",
+  "signedByOrgName": "trino",
+  "plugin": "trino-datasource",
+  "version": "1.0.4",
+  "time": 1695974736819,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "img/explore.png": "e9814aaa78c74565087c0d15cebf427b6eeec71edfeb10049fea243000e026f5",
+    "img/logo.svg": "d1dd400467040aaa53d908d3ea743579874625d46d5223f6f1ea7568ae169caa",
+    "gpx_Trino_linux_arm": "a8d663ae0132deff6e86013b723f5a34f351ae4fa741e3dc523050877e40d76d",
+    "gpx_Trino_darwin_amd64": "23df5f4b99670cd00e46ee7a82743def2767704dcd37652f10f6f24f507f974e",
+    "README.md": "5ebcf75f7db0f4cef6e63966fb691e25cf2ed8b1137eb6b0b90c632bf1debc4e",
+    "plugin.json": "457144355c7b3c0c00ec3fc35882fe9f03f9fea0a8a04260a6aa10295bf85a8c",
+    "CHANGELOG.md": "690aa75918f6db6c55ec834eb05eff3e23b1195eaf56d39ad8fed431dcc44f0a",
+    "gpx_Trino_windows_amd64.exe": "d050f14f5a650b4e8bda27cc3648dc8ecc4f4de57ff6a2a8acdaeb4548d95951",
+    "module.js": "ac0a1126be4b1c8a9ec4470da65edb777f370664c7388c17e7fb4ddd27887c6d",
+    "gpx_Trino_linux_amd64": "d14709518d9e7c6bfcdf0c59888205d30db8e7d7e0eb1dc0833b67d6b429f6b9",
+    "go_plugin_build_manifest": "99281d07cd61ac770316869b29b9cc4d432cb4acc2caa8ac0685bacd309f0885",
+    "gpx_Trino_darwin_arm64": "bbdad043c2aaf51223bb6416c835f2d03686dddda9935e22c9ad7b1172e28645",
+    "module.js.map": "efa065b4fdc36e30d460bb9a724152bb9d637c6e8d7d32afe05f52cb0bfc4140",
+    "gpx_Trino_linux_arm64": "843f1dfb6c309b688197161045d1f4bb01782ec9a9f4bd7555474fee8e555c1f"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrkEARMKAAYFAmUWhVEAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm52WSAgkBWfrxvIRpgREzCLvYvpmpnD8sMk4QQpwP5712wLshGXd51wcr
+4WbA5h7v3LmKquta4Grng9CmknmZmE0MGothFQ8CCQFITIcdsXB0t66Dx7K/
+PaFx0neqRU9YJMWPjC3ToXRY4Re4PLMh63jOow7EUgA9aguvQhhU4BBGry6G
+TUklbCPrOg==
+=P4r0
+-----END PGP SIGNATURE-----
